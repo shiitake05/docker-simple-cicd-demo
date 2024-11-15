@@ -1,5 +1,4 @@
 FROM node:18 AS base
-
 CMD [ "bash" ]
 
 # Build
